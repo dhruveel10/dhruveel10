@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**dhruveel10/dhruveel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm Dhruveel, a programmer and developer from India. I like coding in Java. Besides coding, I like gaming
 
 - 🔭 I’m currently working on Data Structure skills using Java
 - 🌱 I’m currently learning Data Science with Python
